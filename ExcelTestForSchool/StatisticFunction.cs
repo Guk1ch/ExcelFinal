@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using ExcelTestForSchool.DataBase;
 
-
+//test
 namespace ExcelTestForSchool
 {
 	public class StatisticFunction
